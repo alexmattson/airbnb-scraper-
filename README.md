@@ -3,6 +3,8 @@ Airbnb Scraper
 
 This is a simple airbnb scraper in ruby. 
 
+It is a script that can run daily where it would pull all the information from lisings in a given area and store it into a CSV file. 
+
 Expantion and Known Issues
 -----------
 
